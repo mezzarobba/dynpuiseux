@@ -7,6 +7,10 @@ Authors: Ariane Carrance, Marc Mezzarobba, 2023--2024
 Inspired in part by gfun:-algeqtoseries by Bruno Salvy
 (https://perso.ens-lyon.fr/bruno.salvy/software/the-gfun-package/).
 
+This program is dedicated to the public domain under the [CC0 1.0 Universal
+(CC0 1.0) Public Domain Dedication][cc-zero].
+
+[cc-zero]: https://creativecommons.org/publicdomain/zero/1.0/
 
 EXAMPLES::
 
